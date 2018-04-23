@@ -1,0 +1,4 @@
+This Function needs an input of to vectors of data. The first vector 'x' should contain all of the independent variables data 
+points. The second vector 'y' should contain all of the dependent variables data points. The function will then apply the
+Simpson's 1/3 Rule and give an integral approximation of the data. If needed, the function will also apply the trapezoidal rule
+for more accurate results.
