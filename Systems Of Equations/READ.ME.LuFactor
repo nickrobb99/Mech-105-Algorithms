@@ -1,0 +1,3 @@
+This function will use LU Factorization to find the solutions to a system of equations. The function needs a square input of
+a matrix that represents a system of equations in 'A'. It will give an output of the upper triangle in 'U', the lower triangle
+in 'L', and the pivot matrix 'P'.
