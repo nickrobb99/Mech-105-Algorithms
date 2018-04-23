@@ -1,0 +1,4 @@
+This function will take a function and approximate where the root is. The function will need an input of the function in 'func',
+a lower bounded guess in 'xl', an upper bounded guess in 'xu', and the maximum amount of iterations you wwould like performed in
+'maxiter'. The output will be the x value approximation of where the root is, the function evaluated, the estimated approximate
+relative error, and the number if iterations performed.
